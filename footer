@@ -1,0 +1,6 @@
+<div id="footer">
+	<div class="breadcrumbs"><?php include('includes/breadcrumbs.php'); ?></div>
+	Best viewed in fullscreen at 1024x768 resolution or 
+	higher<br/>
+	All content Â© 2012-2013; J. Marie Mayer
+</div>
